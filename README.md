@@ -3,7 +3,7 @@ An example on how to create E2E/Integration tests with NestJS and TestContainers
 
 ## Description
 
-[Nest](https://dev.to/medaymentn/improving-intergratione2e-testing-using-nestjs-and-testcontainers-3eh0) Check full tutorial on DEV.to.
+Check full tutorial on [DEV.to](https://dev.to/medaymentn/improving-intergratione2e-testing-using-nestjs-and-testcontainers-3eh0) .
 
 ## Installation
 
